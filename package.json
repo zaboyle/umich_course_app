@@ -1,0 +1,17 @@
+{
+  "name": "umich_course_app",
+  "version": "1.0.0",
+  "description": "Webapp to add Umich courses to Google Calendar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zboyle & lmcicat",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "eslint": "^6.1.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
